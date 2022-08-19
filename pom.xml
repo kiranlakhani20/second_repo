@@ -46,8 +46,8 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		
-		<sonar.projectKey>balu-sn-devops_First_repo</sonar.projectKey>
-		<sonar.organization>balu-sn-devops</sonar.organization>
+		<sonar.projectKey>AutomationProj1-donotdelete</sonar.projectKey>
+		<!-- <sonar.organization>balu-sn-devops</sonar.organization> -->  
   		<sonar.host.url>http://sonarqube1.sndevops.xyz/</sonar.host.url>
 	</properties>
 
