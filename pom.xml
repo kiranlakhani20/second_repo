@@ -14,6 +14,18 @@
 			<version>4.13</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.13</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.13</version>
+			<scope>test</scope>
+		</dependency>
 
 		<dependency>
 			<groupId>org.json</groupId>
@@ -34,9 +46,9 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		
-		<sonar.projectKey>kiranlakhani20_second_repo</sonar.projectKey>
-		<sonar.organization>kiranlakhani20</sonar.organization>
-  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.projectKey>balu-sn-devops_First_repo</sonar.projectKey>
+		<sonar.organization>balu-sn-devops</sonar.organization>
+  		<sonar.host.url>http://sonarqube1.sndevops.xyz/</sonar.host.url>
 	</properties>
 
 	<build>
@@ -73,6 +85,8 @@
 				<artifactId>sonar-maven-plugin</artifactId>
 				<version>3.7.0.1746</version>
 			</plugin>
+			<!-- SonarQube Plugin -->
+			<!-- SonarQube Plugin -->
 		</plugins>
 	</build>
 
